@@ -1,0 +1,5 @@
+Zadaca_3-cat numbers.txt|./zad3|sort -n|tail -n1
+Zadaca_4-a) ./zad4_a <numbers
+         b) ./zad4_b <nums
+Zadaca_5- highest number-cat numbers.txt|sort -n|tail -n1
+lowest number-cat numbers.txt|sort -n|head -n1
